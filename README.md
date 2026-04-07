@@ -33,12 +33,16 @@ carte_dr/
 
 ## Couches raster (`rasters/`)
 
+Modèles numériques de terrain (MNT) utilisés pour générer la couche `montagnes.gpkg`. La vectorisation a été effectuée à partir d'un seuil de **1 500 m d'altitude**, avec des tranches de 500 m jusqu'à 4 500 m. Ces fichiers sont conservés pour permettre une éventuelle régénération de la couche avec des paramètres différents (seuil, emprise, résolution).
+
 | Fichier | Résolution |
 |---------|------------|
 | `raster(0,05).tif` | 0,05° |
 | `raster(0,1).tif` | 0,1° |
 | `rater(0,02).tif` | 0,02° |
 | `rater(0,2).tif` | 0,2° |
+
+> Note : le préfixe `rater` dans deux fichiers est une coquille pour `raster`.
 
 ## Utilisation
 
