@@ -4,7 +4,7 @@ Travail cartographique réalisé sous QGIS dans le cadre de la thèse de doctora
 
 > **[« Les vases communicants. Les savoirs scientifiques anciens au sein des interactions entre les pays d'Islam et l'Empire romain d'Orient (640–867) »](https://www.orient-mediterranee.com/training/soutenance-de-these-de-jakub-sypianski/)**
 
-Cette carte couvre la Méditerranée orientale entre 600 et 900, avec un focus sur les frontières entre les empires sassanide et arabe.
+Cette carte couvre la Méditerranée orientale entre 600 et 900, avec un focus sur les frontières entre les empires sassanide et arabe. Les données géographiques (villes, points, régions, etc.) reflètent les lieux mentionnés ou pertinents dans le cadre de la thèse et ne sont pas représentatives à cent pour cent de l'importance historique de ces lieux dans la région.
 
 ## Structure du projet
 
@@ -19,15 +19,15 @@ carte_dr/
 
 | Fichier | Contenu |
 |---------|---------|
-| `centres d'étude.gpkg` | Centres d'étude et monastères |
+| `centres_d'étude.gpkg` | Centres d'étude et monastères |
 | `fleuves.kml` | Réseau hydrographique (format KML) |
 | `fleuves_grandes.gpkg` | Grands fleuves |
 | `fortresses.gpkg` | Fortifications et forteresses |
-| `frontière sassanide.gpkg` | Tracé de la frontière sassanide |
+| `frontière_sassanide.gpkg` | Tracé de la frontière sassanide |
 | `frontière_arabe.gpkg` | Tracé de la frontière arabe |
-| `grandes villes.gpkg` | Grandes villes mentionnées dans la thèse — ne sont pas représentatives à cent pour cent de l'importance des villes dans la région |
+| `grandes_villes.gpkg` | Grandes villes |
 | `montagnes.gpkg` | Massifs montagneux |
-| `points.gpkg` | Lieux spécifiques traités dans la thèse — sélection partielle, non exhaustive |
+| `points.gpkg` | Points divers |
 | `régions.gpkg` | Délimitation des régions |
 
 ## Couches raster (`rasters/`)
