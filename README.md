@@ -1,12 +1,16 @@
 # Cartographie — Thèse de doctorat
 
-Travail cartographique réalisé sous QGIS dans le cadre d'une thèse de doctorat portant sur la géographie historique des régions orientales, et plus particulièrement sur les frontières entre les empires sassanide et arabe.
+Travail cartographique réalisé sous QGIS dans le cadre de la thèse de doctorat :
+
+> **« Les contextes sociaux et politiques des échanges scientifiques entre l'Empire romain d'Orient et les pays islamiques (750–850 apr. J.-C., 130–220 A.H.) »**
+
+Cette carte couvre la Méditerranée orientale entre 600 et 900, avec un focus sur les frontières entre les empires sassanide et arabe.
 
 ## Structure du projet
 
 ```
 carte_dr/
-├── doctorat.qgz        — projet QGIS principal
+├── mediterranee-orientale-600-900.qgz   — projet QGIS principal
 ├── vecteurs/           — couches vectorielles
 └── rasters/            — couches raster
 ```
@@ -21,9 +25,9 @@ carte_dr/
 | `fortresses.gpkg` | Fortifications et forteresses |
 | `frontière sassanide.gpkg` | Tracé de la frontière sassanide |
 | `frontière_arabe.gpkg` | Tracé de la frontière arabe |
-| `grandes villes.gpkg` | Grandes villes |
+| `grandes villes.gpkg` | Grandes villes mentionnées dans la thèse — ne sont pas représentatives à cent pour cent de l'importance des villes dans la région |
 | `montagnes.gpkg` | Massifs montagneux |
-| `points.gpkg` | Points divers |
+| `points.gpkg` | Lieux spécifiques traités dans la thèse — sélection partielle, non exhaustive |
 | `régions.gpkg` | Délimitation des régions |
 
 ## Couches raster (`rasters/`)
@@ -37,4 +41,4 @@ carte_dr/
 
 ## Utilisation
 
-Ouvrir le fichier `doctorat.qgz` avec QGIS. Les chemins vers les couches sont relatifs — conserver la structure des dossiers telle quelle.
+Ouvrir le fichier `mediterranee-orientale-600-900.qgz` avec QGIS. Les chemins vers les couches sont relatifs — conserver la structure des dossiers telle quelle.
