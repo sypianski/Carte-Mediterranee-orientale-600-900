@@ -2,7 +2,7 @@
 
 Travail cartographique réalisé sous QGIS dans le cadre de la thèse de doctorat :
 
-> **« Les contextes sociaux et politiques des échanges scientifiques entre l'Empire romain d'Orient et les pays islamiques (750–850 apr. J.-C., 130–220 A.H.) »**
+> **« Les vases communicants. Les savoirs scientifiques anciens au sein des interactions entre les pays d'Islam et l'Empire romain d'Orient (640–867) »**
 
 Cette carte couvre la Méditerranée orientale entre 600 et 900, avec un focus sur les frontières entre les empires sassanide et arabe.
 
