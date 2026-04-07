@@ -1,0 +1,4 @@
+.claude/
+*.gpkg-shm
+*.gpkg-wal
+*.aux.xml
