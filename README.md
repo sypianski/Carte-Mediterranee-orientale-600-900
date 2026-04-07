@@ -22,9 +22,9 @@ carte_dr/
 | `centres_d'étude.gpkg` | Centres d'étude et monastères |
 | `fleuves.kml` | Réseau hydrographique (format KML) |
 | `fleuves_grandes.gpkg` | Grands fleuves |
-| `fortresses.gpkg` | Fortifications et forteresses |
-| `frontière_sassanide.gpkg` | Tracé de la frontière sassanide |
-| `frontière_arabe.gpkg` | Tracé de la frontière arabe |
+| `fortresses.gpkg` | Sélection de forteresses mentionnées dans la thèse — liste non exhaustive |
+| `frontière_sassanide.gpkg` | Frontière romano-sassanide |
+| `frontière_arabe.gpkg` | Frontière romano-arabe |
 | `grandes_villes.gpkg` | Grandes villes |
 | `montagnes.gpkg` | Massifs montagneux |
 | `points.gpkg` | Points divers |
