@@ -19,6 +19,7 @@ carte_dr/
 
 | Fichier | Contenu |
 |---------|---------|
+| `terre.gpkg` | Pays du monde (fond de carte) |
 | `centres_d'étude.gpkg` | Centres d'étude et monastères |
 | `fleuves.kml` | Réseau hydrographique (format KML) |
 | `fleuves_grandes.gpkg` | Grands fleuves |
