@@ -27,7 +27,7 @@ carte_dr/
 | `frontière_sassanide.gpkg` | Frontière romano-sassanide |
 | `frontière_arabe.gpkg` | Frontière romano-arabe |
 | `grandes_villes.gpkg` | Grandes villes |
-| `montagnes.gpkg` | Massifs montagneux |
+| `montagnes.gpkg` | Massifs montagneux (vectorisés à partir de 1 500 m, tranches de 500 m jusqu'à 4 500 m) |
 | `points.gpkg` | Points divers |
 | `régions.gpkg` | Délimitation des régions |
 
