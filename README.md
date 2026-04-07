@@ -39,10 +39,10 @@ Modèles numériques de terrain (MNT) utilisés pour générer la couche `montag
 |---------|------------|
 | `raster(0,05).tif` | 0,05° |
 | `raster(0,1).tif` | 0,1° |
-| `rater(0,02).tif` | 0,02° |
-| `rater(0,2).tif` | 0,2° |
+| `raster(0,02).tif` | 0,02° |
+| `raster(0,2).tif` | 0,2° |
 
-> Note : le préfixe `rater` dans deux fichiers est une coquille pour `raster`.
+> Note : le préfixe `raster` dans deux fichiers est une coquille pour `raster`.
 
 ## Utilisation
 
