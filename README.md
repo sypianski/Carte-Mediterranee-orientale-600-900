@@ -4,7 +4,7 @@ Travail cartographique réalisé sous QGIS dans le cadre de la thèse de doctora
 
 > **[« Les vases communicants. Les savoirs scientifiques anciens au sein des interactions entre les pays d'Islam et l'Empire romain d'Orient (640–867) »](https://www.orient-mediterranee.com/training/soutenance-de-these-de-jakub-sypianski/)**
 
-Cette carte couvre la Méditerranée orientale entre 600 et 900, avec un focus sur les frontières entre les empires sassanide et arabe. Les données géographiques (villes, points, régions, etc.) reflètent les lieux mentionnés ou pertinents dans le cadre de la thèse et ne sont pas représentatives à cent pour cent de l'importance historique de ces lieux dans la région.
+Cette carte couvre la Méditerranée orientale entre 600 et 900, avec un focus sur les frontières entre les empires romain et sassanide puis musulman. Les données géographiques (villes, points, régions, etc.) reflètent les lieux mentionnés ou pertinents dans le cadre de la thèse et ne sont pas représentatives à cent pour cent de l'importance historique de ces lieux dans la région.
 
 ## Structure du projet
 
